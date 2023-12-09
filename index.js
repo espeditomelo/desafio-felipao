@@ -32,7 +32,7 @@ while (resposta === "S" || resposta === "s") {
     } else if (heroi[1] >= 7001 && heroi[1] <= 8000) {
         xp = "Platina"
     } else if (heroi[1] >= 8001 && heroi[1] <= 9000) {
-        xp = "Acendente"
+        xp = "Ascendente"
     } else if (heroi[1] >= 9001 && heroi[1] <= 10000) {
         xp = "Imortal"
     } else {
